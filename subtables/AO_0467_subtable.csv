@@ -1,2 +1,2 @@
-TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-467,yyyymmdd,-8 (10),,--,-- (--),Zeta 2 Aquarii,--,--,--,--,22 23 42.00,+0 32 0.00,--,--,--,--,"('xxxxxx q yyyymmdd',)"
+TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
+467,yyyymmdd,-8 (10),,--,-- (--),Zeta 2 Aquarii,--,--,--,--,22 23 42.00,+0 32 0.00,--,--,--,--,--,"('xxxxxx q yyyymmdd',)"
