@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-1,yyyymmdd,12 (8),,51.00,19 (12.5),Sigma Andromedae,SIG And,+35 44,00 18 19.7,+36 47 07,00 13 0.00,+36 14 0.00,0.074,240,A2   V,0.05,4.52,"('xxxxxx q yyyymmdd',)"
+1,yyyymmdd,12 (8),,51.0,19 (12.5),Sigma Andromedae,SIG And,+35 44,00 18 19.7,+36 47 07,00 13 00.00,+36 14 00.00,0.074,240,A2   V,0.05,4.52,"('xxxxxx q yyyymmdd',)"

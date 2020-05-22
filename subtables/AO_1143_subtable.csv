@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-1143,yyyymmdd,94 (5;25),,1826.00,97 (4.2),Pollux,BET Gem,+28 1463.0,07 45 18.9,+28 01 34,07 39 12.00,+28 16 0.00,0.628,265,K0   IIIb,1.0,1.14,"('xxxxxx q yyyymmdd',)"
+1143,yyyymmdd,94 (5;25),,1826.0,97 (4.2),Pollux,BET Gem,+28 1463.0,07 45 18.9,+28 01 34,07 39 12.00,+28 16 00.00,0.628,265,K0   IIIb,1.0,1.14,"('xxxxxx q yyyymmdd',)"

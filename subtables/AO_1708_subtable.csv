@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-1708,yyyymmdd,34 (6;25),,2220.00,36 (9.8),Br 1306,--,+51 1495.0,09 20 43.6,+51 15 57,09 13 48.00,+51 41 0.00,0.146,343,F3   V,0.42,6.13,"('xxxxxx q yyyymmdd',)"
+1708,yyyymmdd,34 (6;25),,2220.0,36 (9.8),Br 1306,--,+51 1495.0,09 20 43.6,+51 15 57,09 13 48.00,+51 41 00.00,0.146,343,F3   V,0.42,6.13,"('xxxxxx q yyyymmdd',)"

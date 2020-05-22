@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-1080,yyyymmdd,11 (5; 24),,4647.00M,26 (7.0),Delta Cygn,DEL Cyg,+44 3234.0,19 44 58.5,+45 07 50,19 41 48.00,+44 53 0.00,0.064,54,"B9.5+IV,V",-0.03,2.87,"('xxxxxx q yyyymmdd',)"
+1080,yyyymmdd,11 (5; 24),,4647.0,26 (7.0),Delta Cygn,DEL Cyg,+44 3234.0,19 44 58.5,+45 07 50,19 41 48.00,+44 53 00.00,0.064,54,"B9.5+IV,V",-0.03,2.87,"('xxxxxx q yyyymmdd',)"

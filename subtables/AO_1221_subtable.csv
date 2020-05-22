@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-1221,yyyymmdd,10 (4;17),,1645.00,12 (7.2),Omega Gemi,OME Gem,+24 1502.0,07 02 24.7,+24 12 55,06 56 18.00,+24 21 0.00,0.008,249,G5   Ib-I*,0.94,5.18,"('xxxxxx q yyyymmdd',)"
+1221,yyyymmdd,10 (4;17),,1645.0,12 (7.2),Omega Gemi,OME Gem,+24 1502.0,07 02 24.7,+24 12 55,06 56 18.00,+24 21 00.00,0.008,249,G5   Ib-I*,0.94,5.18,"('xxxxxx q yyyymmdd',)"

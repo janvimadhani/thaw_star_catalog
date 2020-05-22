@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-335,yyyymmdd,16 (8),,1444.00,15 (8.0),Eta Geminorum,ETA Gem,+22 1241,06 14 52.7,+22 30 24,06 09 0.00,+22 32 0.00,0.058,257,M3   III,1.6,3.28,"('xxxxxx q yyyymmdd',)"
+335,yyyymmdd,16 (8),,1444.0,15 (8.0),Eta Geminorum,ETA Gem,+22 1241,06 14 52.7,+22 30 24,06 09 00.00,+22 32 00.00,0.058,257,M3   III,1.6,3.28,"('xxxxxx q yyyymmdd',)"

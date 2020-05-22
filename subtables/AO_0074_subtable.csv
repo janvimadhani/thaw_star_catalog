@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-74,yyyymmdd,58 (10),,5114.00A,55 (5.0),Tau Cygni,TAU Cyg,+37 4240,21 14 47.4,+38 02 44,21 11 0.00,+37 37 0.00,0.465,20,F2   IV,0.39,3.72,"('xxxxxx q yyyymmdd',)"
+74,yyyymmdd,58 (10),,5114.0,55 (5.0),Tau Cygni,TAU Cyg,+37 4240,21 14 47.4,+38 02 44,21 11 00.00,+37 37 00.00,0.465,20,F2   IV,0.39,3.72,"('xxxxxx q yyyymmdd',)"

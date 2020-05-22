@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-58,yyyymmdd,55 (7),,1718.00A,57 (5.9),Delta Geminorum,DEL Gem,+22 1645,07 20 07.4,+21 58 56,07 14 0.00,+22 10 0.00,0.029,239,F2   IV,0.34,3.53,"('xxxxxx q yyyymmdd',)"
+58,yyyymmdd,55 (7),,1718.0,57 (5.9),Delta Geminorum,DEL Gem,+22 1645,07 20 07.4,+21 58 56,07 14 00.00,+22 10 00.00,0.029,239,F2   IV,0.34,3.53,"('xxxxxx q yyyymmdd',)"

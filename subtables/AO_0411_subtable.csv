@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-411,yyyymmdd,-1 (7),,1122.00A,4 (3.7),Epsilon Aurigae,EPS Aur,+43 1166,05 01 58.1,+43 49 23,04 54 48.00,+43 41 0.00,0.003,171,F0+B Iae,0.54,2.99,"('xxxxxx q yyyymmdd',)"
+411,yyyymmdd,-1 (7),,1122.0,4 (3.7),Epsilon Aurigae,EPS Aur,+43 1166,05 01 58.1,+43 49 23,04 54 48.00,+43 41 00.00,0.003,171,F0+B Iae,0.54,2.99,"('xxxxxx q yyyymmdd',)"

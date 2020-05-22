@@ -1,2 +1,2 @@
 TPC No,AO Result Published,AO Rel. Parallax (err),AO Abs. Parallax (err),YPC No,YPC Abs. Parallax (err),AO Name,YPC Name,BD Name,RA2000,Dec2000,AO RA1900,AO Dec1900,YPC Total Proper Motion,YPC Proper Motion Position Angle,YPC Spectrum,YPC V Mag,YPC B-V Mag,"AO Obs No, Quality, Date"
-520,yyyymmdd,3 (6),,5507.00A,5 (7.8),Omega Sigma 478,OSIG 478A,+38 4855,22 44 05.2,+39 27 56,22 39 36.00,+38 56 0.00,0.017,169,"K5+K2III,*",1.48,5.95,"('xxxxxx q yyyymmdd',)"
+520,yyyymmdd,3 (6),,5507.0,5 (7.8),Omega Sigma 478,OSIG 478A,+38 4855,22 44 05.2,+39 27 56,22 39 36.00,+38 56 00.00,0.017,169,"K5+K2III,*",1.48,5.95,"('xxxxxx q yyyymmdd',)"
