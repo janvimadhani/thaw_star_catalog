@@ -2,12 +2,12 @@
 Thaw Star Catalog
 
 ## Notebook One (Thaw Star Catalog_ntbk1)
-This notebook takes the three separate formats of the published Allegheny parallaxes and formats them all into Astropy tables matched with their YPC counterparts. To do the matching, Vizier's online YPC is queried using astropy.
-At the end of this notebook, you have three tables with all originally published data preserved with the added matching to the YPC.  
+This notebook takes the three separate formats of the published Allegheny parallaxes and formats them all into Astropy tables matched with their YPC counterparts. It also takes the additional fourth table of published AO parallaxes with no TSC number, for a total of four tables of raw data. To do the matching, Vizier's online YPC is queried using astropy.
+At the end of this notebook, you have four tables with all originally published data preserved with the added matching to the YPC.  
 
 ## Notebook Two (Consolidate TSC_ntbk2)
-In this notebook, the three tables that have already been matched with YPC, will be formatted (RA,Dec,milliarcseconds, BD number etc.) and information will be extracted from each one to fill out a comprehensive, single table. Some of the original columns from the printed publications that were deemed superfluous have been removed. 
-At the end of this notebook, you have a single, uniformly formatted, table, with YPC matching. 
+In this notebook, the four tables that have already been matched with YPC, will be formatted (RA,Dec,milliarcseconds, BD number etc.) and information will be extracted from each one to fill out a comprehensive, single table. Some of the original columns from the printed publications that were deemed superfluous have been removed. Missing YPC entries (provided by Data Entry One) are reincoporated into the TSC by the end of this notebook.
+At the end of this notebook, you have a single, uniformly formatted, table, with YPC matching, including ALL missing YPC entries. 
 
 ## Notebook Three (.../subtables/Match with No. of Observations_ntbk3)
 In this notebook, the TSC (that has already been matched with the YPC) is matched with the index cards.
