@@ -18,4 +18,4 @@ This notebook, and all files created from it, currently, live in the /subtables 
 At the end of this notebook, you have a master table and all subtables named after each TSC number. 
 
 ## Notebook Four (Append Missing Info to TSC_ntbk4)
-This notebook is meant to be a "working" notebook where you can easily add columns of data to the existing master table, fill out entries in the master table, or extract information from the master table and write smaller, specific tables in .tex or .csv (or any ascii supported format). The output of this notebook is left up to the user. 
+This notebook is meant to be a "working" notebook where you can easily edit entries in the master table, or extract information from the master table and write smaller, specific tables in multiple ascii supported formats. There is also a section meant to help export tables in printable formats for the purpose of proofreading. The output of this notebook is left up to the user. 
