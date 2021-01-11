@@ -1,0 +1,674 @@
+
+60 Gem ...........Thaw 97
+SIMBAD:       07 22 36.9152964 +27 53 52.896034
+TSC20200815:   iota_Gemin 3.9 
+              07 22 37         +27 53 57 1950 Thaw 97
+   NOTES:
+      1) Janvi could not match
+      2) Name in EXCEL file "6o Iota Geminorum" on index card it is "Iota Gemin". 
+         Is there another index card somewhere?  Curious because according to
+         SIMBAD Iota Gem = 60 Gem.  Maybe no card because the plate numbers in TSC
+         match those on the single index card that I found for this star.
+   CONCLUSIONS:
+      1) Coordinates seem good enough. No obvious reason for problem 1) unless'
+         it has something to do with problem 2)
+------------------------------------------------------------------------
+
+
+5 Ser .............................. Thaw 228
+SIMBAD:         15 16 46.67051 +01 56 46.2048
+TSC20200815:        5_Serpentis 5.2 
+                15 16 45       +01 57 11 1950 Thaw 228
+    NOTES:
+      1) Janvi matched 5 Ser  with star named "Phi Ser" Coord:
+                15 54 55.5949682562 +14 33 27.943325420
+           * Found N) index card for Phi Ser however...
+           * Found 2 index cards for "Gamma Ser" coord:
+                15 54 08            +15 49 24  Thaw 1945 
+             NOT a good match
+      2) Have 2 Index cards:
+           *  Rho Ser  (15 16 45  +01 57 11)  NOT PUBLISHED
+           *  5 Ser    (15 16 45  +01 57 11) Thaw 228
+    CONCLUSIONS:
+      1) Obviously matched with wrong star (Errors: RA ~0" DER ~13 degrees!
+         But why?
+------------------------------------------------------------------------
+
+Nu Psc ....................... Thaw 249
+SIMBAD:         01 38 49.4870738 +05 14 07.287760
+TSC20200815:        nu_Piscium 4.7 
+                01 38 50         +05 14 07 1950 Thaw 249
+    NOTES:
+     1) Janvi matched with L870-2  (RA= 01 35 30 DEC= -5 16 00)
+    CONCLUSIONS:
+     1) Janvi matched with wrong star.  Why? 
+------------------------------------------------------------------------
+
+
+Nu Per   .................... Thaw 253
+SIMBAD:           03 41 47.2116774 +42 25 20.609946
+TSC20200815:         nu_Persei 3.9 
+                  03 41 47         +42 25 20 1950 Thaw 253
+    NOTES:
+     1) Janvi matched with "Lal 6772" coord:
+                  03 40 21         +43 26 58
+     2) Plate numbers in EXCEL do not match those in EXCEL
+    CONCLUSIONS:
+     1) Issue with one of the data merging programs?
+------------------------------------------------------------------------
+
+Struve 2107 ....................... Thaw 280
+SIMBAD:         16 49 51.25721 +28 44 54.8734
+TSC20200815:         Sigma_2107 6.5 
+                16 49 51       +28 44 55 1950 Thaw 280
+    NOTES:
+      1) Janvi could not match
+      2) All coordinates match (including Precessed 1950 Yale)
+    CONCLUSIONS:
+      1) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
+
+Burnham 637 ...................... Thaw 285
+SIMBAD:          	18 07 23.8207095800 +03 06 43.202002252
+TSC20200815:          beta_637 6.0 
+                  18 07 23            +03 06 42 1950 Thaw 285
+    NOTES:
+      1) Janvi matched with wrong star.  She matched with...
+         G20-22: 18 02 29  -03 01 54 (Index card).
+    CONCLUSIONS:
+      1) Not clear why 1) above happened
+------------------------------------------------------------------------
+
+
+104 Tau .......................... Thaw 289
+SIMBAD:          05 04 29.5098510804 +18 34 47.095593215
+TSC20200815:          104_Tauri 5.1 
+                 05 04 29            +18 34 46 1950 Thaw 289
+    NOTES:
+      1) Janvi found no match
+      2) All coordinates match (including Precessed 1950 Yale)
+    CONCLUSIONS:
+      1) Not clear why 1) above happened
+------------------------------------------------------------------------
+
+54 Psc .............................. Thaw 323
+SIMBAD:          00 36 45.4309111134 +20 58 51.842643371
+TSC20200815:          54_Piscium 6.1 
+                 00 36 45            +20 58 52 1950 Thaw 323
+    NOTES:
+      1) Janvi found no match
+      2) Reasonable match for all coordinates (including Precessed 1950 Yale)
+    CONCLUSIONS:
+      1) Not clear why 1) above happened
+------------------------------------------------------------------------
+
+
+Weisse 1029 ...................... Thaw 384
+SIMBAD:           07 41 32.5270196681 +39 41 13.416531907
+TSC20200815:            Maan_148 6.8 
+                  07 41 32            +39 41 13 1950 Thaw 384
+    NOTES:
+      1) Janvi could not match
+      2) Precessed Yale dec off by ~0.3' (too little to explain
+         failure to match.
+      3) Thaw Index card says Weisse 671 = Maan 148
+    CONCLUSIONS:
+      1) Not clear why 1) above happened
+------------------------------------------------------------------------
+
+O. Struve 18 ..................... Thaw 400
+SIMBAD:           00 39 48.53201 +03 53 35.6036
+TSC20200815:            Omicron_Sigma_18 7.4 
+                  00 30 49       +03 53 35 1950 Thaw 400
+    NOTES:
+      1) Janvi could not match
+      2) Reasonable match for all coordinates (including Precessed 1950 Yale)
+    CONCLUSIONS:
+      1) Not clear why 1) above happened
+------------------------------------------------------------------------
+
+
+Lal 31174 ......................... Thaw 447
+SIMBAD:             17 05 52.8810331848 +04 29 27.482810156
+TSC20200815:              #Porter_973 8.0 
+                    17 05 53            +04 29 27 1950 Thaw 447
+    NOTES:
+      1) Janvi cannot match
+      2) Reasonable match for all coordinates (including Precessed 1950 Yale)
+      3) Name in TSC should not have "#" in it.
+    CONCLUSIONS:
+      1) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
+
+Delta Equ .......................... Thaw 462
+SIMBAD:               	21 12 02.6554935 +09 48 11.855853
+TSC20200815:                  delta_Equulei 4.7 
+                        21 12 02 +09 48 11 1950 Thaw 462
+    NOTES:
+      1) Janvi matched with 6 Equ, but Delta Equ = 7 Equ (SIMBAD)
+      2) Coordinates for 6 Equ:   21 08 05.4935845399 +09 50 38.459259254
+    CONCLUSIONS:
+      1)  Janvi matched with wrong star, but precessed Yale coordinates in EXCEL
+          are:   21 12 02.609     +09 48 27.3842
+          which are OK for Delta Equ (= 7 Equ).  So, not clear what caused
+          the mismatch.
+------------------------------------------------------------------------
+
+
+Lal 38613 ..........................Thaw 507
+SIMBAD:                  20 07 17.51862 +16 39 19.3299
+TSC20200815:                   Sigma_2634 8.0/9.5<5" 
+                         20 07 18       +16 39 19 1950 Thaw 507
+    NOTES:
+      1) Janvi could not match
+      2) Precessed Yale coordinates are a good match with SIMBAD
+      3) Thaw Index coordinates agree
+      4) Name on Index card is Sigma 2634 (= Lal 38613)
+      5) Plates on Index Card:  3679 (1915) to 18281 (1919) which
+         match TSC entry 
+    CONCLUSIONS:
+      1) Not cler why Janvi could not match
+------------------------------------------------------------------------
+
+
+c Her ..............................Thaw 561
+SIMBAD:            17 06 15.5833679983 +35 59 56.480986911 
+TSC20200815:             c_Herculis 5.4 
+                   17 06 15            +35 59 56 1950 Thaw 561
+    NOTES:
+      1)  Janvi could not match dispite all coordinates being very
+          close
+    CONCLUSIONS:
+      1) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
+
+37 Cet ................................Thaw 594
+SIMBAD:                  01 11 52.8366880401 -08 11 27.803372249
+TSC20200815:                   37_Ceti 5.2 
+                         01 11 53            -08 11 28 1950 Thaw 594
+    NOTES:
+      1)  Janvi could not match
+    CONCLUSIONS:
+      1)  All coordinates are in pretty good agreement, so no obvious
+         reason for 1) above
+------------------------------------------------------------------------
+
+
+R Sct .................................... Thaw 699
+SIMBAD:                   18 44 48.7490722407 -05 45 37.382676602
+TSC20200815:                    R_Scuti(var) 4.8-7.8 
+                          18 44 48            -05 35 37 1950 Thaw 699
+    NOTES:
+      1)  Janvi could not match dispite the fact that all coordinates are in
+          good agreement
+    CONCLUSIONS:
+      1)  Problem is not apparent     
+------------------------------------------------------------------------
+
+
+47 Psc .................................... Thaw 720
+SIMBAD:                00 25 26.2518078359 +17 36 58.819126092
+TSC20200815:                 47_Piscium 5.3 
+                       00 25 26            +17 36 59 1950 Thaw 720
+    NOTES:
+      1) Janvi identified with "47 Tiscium".  Obvious misspelling of Piscium.
+    CONCLUSIONS:
+      1) Item 1) above seems to be the only problem as the plate numbers in EXCEL
+         match with those on the Thaw Index card     
+------------------------------------------------------------------------
+
+
+Lal 31478   +8.?  17 17 17.118	-07 58 00.5646 Thaw 750
+SIMBAD:           17 17 17.237      -07 58 12.5813
+TSC20200815:  #Porter_983 8.0 
+                  17 17 17          -07 58 12 1950 Thaw 750
+  NOTES:
+   1) Janvi could not match this star
+   2) What does "#" mean in TSC star name?
+   3) Magnitude from index card is 8.0 NOT "8.?" 
+  CONCLUSIONS:
+   1) I see nothing wrong with the coordinates 
+   2) "#" or "8.?" possibly the issue?
+--------------------------------------------------------------------
+
+12 Aquilae    +4.2 18 59 00.595	-05 48 37.3836  Thaw 758
+SIMBAD: 	       18 59 00.601     -05 48 39.7296
+TSC20200815:  12_Aquilae 4.1 
+                   18 59 00         -05 48 39 1950 Thaw 758
+  PROBLEM:
+   1) Janvi program matched with: BD +5 3993.  For 12 Aql the 
+      correct number is BD -5 4840
+   2) Coordinates for BD +5 3993 are:  
+                   18 55 33.6944   +05 51 24.42636
+      and these are the coordinates returned by Janvi.
+
+  CONCLUSIONS:  
+  1) No obvious reason for failure to match. 
+     Coordinates are good in EXCEL, SIMBAD & TSC  
+-------------------------------------------------------------------
+
+
+32 Aquarii  +5.2    22 02 13.104   -01 08 52.8481 Thaw 772
+SIMBAD: 	        22 02 13.129   -01 08 56.3210
+TSC20200815:  32_Aquarii 5.2 
+                    22 02 13       -01 08 56 1950 Thaw 772
+  PROBLEM:
+    1) Janvi's program matched with BD +0 4810
+              9.24  21 59 38.00    +01 09 36.00	1950
+       but 32 Aqu is BD -1 4242
+
+  CONCLUSIONS:
+    1) EXCEL, SIMBAD & TSC coodinates all agree, but large coordinate 
+       mismatch RA: ~21.4m  DEC: ~2' suggests possible issue 
+       with Janvi's program?  
+--------------------------------------------------------
+
+37 Pegasi  +5.5   22 27 26.285 +04 10 44.5798  Thaw 775
+SIMBAD:           22 27 26.185 +04 10 37.7350
+TSC20200815:  37_Pegasi 5.5 
+                  22 27 26     +04 10 37 1950 Thaw 775
+  PROBLEM:
+    1)  Janvi matched with 34 Peg
+                  22 23 04     +04 08 16
+    2) Coordinate mismatch:   RA: 4.5m  DEC: 2'
+  CONCLUSIONS:
+    1) EXCEL, SIMBAD & TSC coodinates all agree, but large coordinate 
+       mismatch RA: ~4.5m  DEC: ~2.3' suggests possible issue 
+       with Janvi's program?     
+---------------------------------------------------------
+
+59 Pegasi  +5.2 23 09 12.671	+08 26 53.6736 Thaw 779
+   SIMBAD:      23 09 12.609  +08 26 53.8365
+   PROBLEM:
+    1)  Janvi matched with 57 Peg
+                23 06 59      +08 24 01
+    2) Coordinate mismatch:   RA: 2m  DEC: 3'
+   CONCLUSIONS:
+         Issue with Janvi's program?   
+---------------------------------------------------------
+
+6 Tria  +5.2 02 09 27.978	+30 04 14.0521 Thaw 783
+SIMBAD:      02 09 27.765     +30 04 11.0712
+   PROBLEM:
+    1)  Janvi found no match
+   CONCLUSIONS:
+         Issue with Janvi's program?  
+--------------------------------------------------------- 
+
+Omicron Drac   +4.8 18 50 27.213	+59 19 34.3537  Thaw 796
+SIMBAD:             18 50 27.801    +59 19 36.2468
+   PROBLEM:
+    1)  Janvi found no match
+   CONCLUSIONS:
+         Issue with Janvi's program?  
+---------------------------------------------------
+
+
+A.Oe. 2618  +8.5 02 18 23.767	+70 57 14.5041  Thaw 808
+SIMBAD:          02 18 29.224 +70 57 06.5271  
+   PROBLEM:
+    1)  Janvi found no match
+   CONCLUSIONS:
+         Issue with Janvi's program?  
+---------------------------------------------------
+
+52 Pers  +4.9  04 11 28.605	+40 21 32.7161 Thaw 812
+SIMBAD:        04 11 28.747   +40 21 32.4397  
+   PROBLEM:
+    1)  Janvi found no match
+   CONCLUSIONS:
+         Issue with Janvi's program?  
+---------------------------------------------------
+
+
+Lal 31313   +5.1 17 07 56.128	+40 50 18.5958  Thaw 832
+SIMBAD:          17 07 55.905 +40 50 19.1572
+   PROBLEM:
+    1)  Janvi found no match
+   CONCLUSIONS:
+         Issue with Janvi's program?  
+---------------------------------------------------
+
+Comp Gamma Ceti +10.2  02 39 53.946	+03 09 51.8084  Thaw 858
+SIMBAD:                02 39 56.792 +03 09 49.1520
+   PROBLEM:
+    1)  Janvi found no match
+   CONCLUSIONS:
+         Issue with Janvi's program?  
+---------------------------------------------------
+
+
+Sigma Aqr  +4.9 22 28 00.143	-10 56 02.5424 Thaw 901
+SIMBAD:         22 28 00.153  -10 56 04.3396 
+   PROBLEM:
+    1)  Janvi found no match
+    2)  Cannot find Thaw card
+   CONCLUSIONS:
+         Issue with Janvi's program?
+-----------------------------------------------------
+
+
+Pi 167  +5.2  08 44 43.038	-01 42 45.8302  Thaw 928
+SIMBAD:       08 44 42.925    -01 42 45.4451
+   PROBLEM:
+    1)  Janvi program cannot identify
+   CONCLUSIONS:
+         Issue with Janvi's program?
+-----------------------------------------------------
+
+
+Paris 20211  +5.4  16 07 13.474	-03 20 11.0726  Thaw 939
+SIMBAD:  	       16 07 13.245     -03 20 11.8440
+TSC20200815: Paris_20211 5.4 
+                   16 07 13         -03 20 12   1950 Thaw 939
+   PROBLEM:
+    1)  Janvi program cannot find match with anything
+   CONCLUSIONS:
+    1)  Problem not apparent.
+------------------------------------------------------
+
+
+60 Ori +5.2 05 56 15.306	+00 32 58.9898   Thaw 971
+SIMBAD:     05 56 15.237      +00 33 00.0275
+TSC20200815:  60_Orionis 5.2 
+            05 56 15          +00 32 59 1950 Thaw 964
+PROBLEM:
+   1) Wrong Thaw # in TSC file:  60 Ori = Thaw 971 not 964
+   2) Janvi program cannot find match with anything
+CONCLUSIONS:
+   1) SIMBAD & TSC coordinates agree well. Errors- RA: 0s DEC: 1" 
+   2) Would fact that Janvi's program already identified Alpha And 
+      as being 60 Ori be the problem?
+---------------------------------------------------------
+
+
+Fed 1458 +5.4  00 02 33.670	+00 16 42.3971  Thaw 979
+SIMBAD:
+TSC20200815:  Porter_505 8.1 
+               09 10 52       +56 25 04 1950 Thaw 978 Thaw 979
+NOTES:
+   1) Janvi's program could not find a match
+CONCLUSIONS:
+   1) Fed 1458 = Porter 505 = BD +53 1320/1 = Thaw 978/9 (binary star)
+   2) For some reason the coordinates in Dave's EXCEL file:
+         00 02 33.670	+00 16 42.3971 
+      are incorrect. However, those in the TSC file are OK.
+---------------------------------------------------------
+
+Brad 226 +6.1 01 40 58.453	+57 17 10.723  Thaw 1016
+SIMBAD:       01 40 58.847    +57 17 08.517
+TSC20200815: beta_870 6.1/8.2<1."2 
+              01 40 59        +57 17 10 1950 Thaw 1016
+NOTES:
+   1) Janvi could not match this star
+CONCLUSIONS:
+   1) Coordinates TSC matching with Thaw card and SIMBAD
+   2) TSC name (Beta 870) appears on index card as an alternate name
+      (Burnham Double Star #870).  That is not the problem.
+   3) Not clear what the problem is.
+---------------------------------------------------------------------
+
+
+Lal 8146  +6.0  04 19 25.993	+20 42 16.6845  Thaw 1020
+SIMBAD:         04 19 25.997  +20 42 17.2577
+TSC20200815:  beta_87 6.1/8.8<2" 
+                04 19 26      +20 42 18 _ 1950 Thaw 1020
+  NOTES:
+    1) Janvi could not match the star
+  CONCLUSIONS:
+    1) EXCEL, SIMBAD & TSC coordinates match well.  No objviou resson
+       that Janvi could find no match
+---------------------------------------------------------------------------
+
+
+31 Boo +4.9 14 39 11.331  +08 22 28.4127 Thaw 1039
+SIMBAD:     14 39 11.266  +08 22 28.6755
+TSC20200815:  31_Bootis 5.0 
+            14 39 11      +08 22 28 1950 Thaw 1039
+  NOTES:
+   1) Janvi coud not match
+  CONCLUSIONS:
+   1) Coordinates in SIBAD, TSC and Excel all agree.  
+   2) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
+9_Serpentis 5.5 15 23 28      +15 36         1950 Thaw 1103
+SIMBAD:         15 23 28.1118 +15 36 09.819
+TSC20200815: 9_Serpentis 5.5 
+                15 23 28      +15 36         1950 Thaw 1103
+   NOTES:
+      1) Janvi could not find a match
+      2) Thaw Index card Says this star is 9 Ser, but Simbad says it is
+         1 Ser (= Tau Ser = BD +15 2858)
+      3)
+   CONCLUSIONS:
+      1) Coordinates in TSC match Thaw Index Card & SIMBAD.  So Janvi
+         should have matched it.
+      2) Something to do with name mismatch with SIMBAD?  
+------------------------------------------------------------------------
+
+Delta 3.4 12 12 57        +57 18 36 1950 Thaw 1151 Thaw 1158
+SIMBAD:   12 12 57.5755   +57 18 37.0914
+TSC20200815:  delta_Ursa_Major 3.4 
+          12 12 57        +57 18 36     1950 Thaw 1151 Thaw 1158
+   NOTES:
+      1) Janvi could not find a match
+      2) Coordinates in SIMBAD, TSC ant Thaw Index Card all agree.
+      2) Precessed Yale 1950 DEC = "7 18.35.8966" in Excel in error
+   CONCLUSIONS:
+      1) In Excel 1950 Yale DEC is wrong.  Apparently dropped the "+5" in
+         "+57".  Programming error?
+------------------------------------------------------------------------
+
+
+Lal_7892 6.9 04 11 30       +12 13 24 _ 1950 Thaw 1218
+SIMBAD:      04 11 30.3997  +12 13 24.6894
+TSC20200815:  Lal_7892 6.9 
+             04 11 30 +12 13.4 _ 1950 Thaw 1218
+   NOTES:
+     1) Janvi could not match
+     2) Cannot find Thaw Index Card.  But TSC lists plenty of plate numbers
+        so, Francis must have found the card
+     3) Located in SIMBAD as BD +11 583 (as given in Excel and Thaw publication
+        by Esther Doody).  Doody 1900 coordinates agree with those in Excel file
+   CONCLUSIONS:
+     1) Coordinates seem OK.
+     2) Can't see the problem, perhaps need to find Thaw Index Card.
+------------------------------------------------------------------------
+
+
+Lal_30540 6.6 16 41 08       +50 01 52 1950 Thaw 1242
+SIMBAD: 	  16 41 08.3285  +50 01 51.8621
+TSC20200815:Lal_30540 6.6 
+              16 41 08       +50 01 52 1950 Thaw 1242
+   NOTES:
+      1) Janvi could not match
+      2) Coordinates all match including precessed Yale in Excel
+   CONCLUSIONS:
+      1) No obvious reason Janvi could not match
+------------------------------------------------------------------------
+
+Lal_6310 5.0 03 26 10       +55 16 50 1950 Thaw 1267
+SIMBAD: 	 03 26 10.4681  +55 16 50.5979
+TSC20200815:Lal_6310 5.0 
+            03 26 10        +55 16 50 1950 Thaw 1267
+   NOTES:
+     1) Janvi could not match
+   CONCLUSIONS:
+     1) Is a double star (ADS 2565 A/B).  Dows it appear again in TSC under a 
+        different Thaw number?   
+     2) No obvious reason Janvi could not match
+------------------------------------------------------------------------
+
+
+Pi Tau ................................. Thaw 1321
+SIMBAD:              04 23 46.6620867885 +14 36 08.320138610
+TSC20200815:               73_Tauri 4.9 
+                     04 23 47            +14 36 08 1950 Thaw 1321
+    NOTES:
+      1) Pi Tau= 73 Tau
+      2) Janvi could not match    
+    CONCLUSIONS:   
+      1) Coordinates agree: SIMBAD, TSC, Index Card & Precessed Yale.  No apparent
+         reason for 2) above.
+------------------------------------------------------------------------
+
+
+Lal 7867 ........................... Thaw 1373
+SIMBAD:               04 12 01.8572428667 +29 46 47.067104096
+TSC20200815:                Lal_7867 7.3 
+                      04 12 02            +29 46 47 1950 Thaw 1373
+    NOTES:
+      1) Janvi could not match
+      2) Coordinates: SIMBAD, TSC & Precessed Yale in good agreement
+    CONCLUSIONS:  
+      1) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
+Nu Dra ............................... Thaw 1403
+SIMBAD:               18 55 00.9335987635 +71 13 50.613935278
+TSC20200815:                nu_Draconis 4.9 
+                      18 55 00            +71 13 50 1950 Thaw 1403
+    NOTES:
+      1) Janvi could not match
+      2) Coordinates: SIMBAD, TSC & Precessed Yale in good agreement 
+    CONCLUSIONS: 
+      1) Not clear why Janvi could not match 
+------------------------------------------------------------------------
+
+Delta UMi ............................ Thaw 1441
+SIMBAD:                 17 48 18.3304911 +86 36 34.788005
+TSC20200815:                  delta_Ursa_Minor 4.4 
+                        17 48 18          +86 36 34 1950 Thaw 1441
+    NOTES:
+      1) Janvi could not match
+      2) Coordinates: SIMBAD, TSC & Precessed Yale in good agreement 
+    CONCLUSIONS: 
+      1) Not clear why Janvi could not match 
+------------------------------------------------------------------------
+
+
+Lal 36091 ........................... Thaw 1444
+SIMBAD:                19 07 15.5000823136 +52 20 42.974938149 
+TSC20200815:                 Lal_36091 5.9 
+                       19 07 15            +52 20 42 1950 Thaw 1444
+    NOTES:
+     1) Janvi could not match
+     2) Precessed 1950 Dec:  2 20 45.7429  does not agree with SIMBAD
+        Looks like dropped the "5" from the dec degrees.    
+    CONCLUSIONS:
+     1) Need to look at Janvi's code to see why 2) above occurred.
+------------------------------------------------------------------------
+
+
+T Mon ............................... Thaw 1456
+SIMBAD:              06 22 30.9833288618 +07 06 52.860235335
+TSC20200815:               T_Monoc(var) 5.7-6.8 
+                     06 22 31            +07 06 53 1950 Thaw 1456
+    NOTES:
+      1) Janvi could not match
+      2) Coordinates: SIMBAD, TSC & Precessed Yale in good agreement 
+    CONCLUSIONS: 
+      1) Not clear why Janvi could not match 
+------------------------------------------------------------------------
+
+
+53 Her ............................... Thaw 1479
+SIMBAD:              16 51 04.1625530133 +31 46 59.721966152
+TSC20200815:               53_Herculis 5.4 
+                     16 51 04            +31 46 59 1950 Thaw 1479
+    NOTES:
+      1) Janvi could not match
+      2) Coordinates: SIMBAD, TSC & Precessed Yale in good agreement 
+    CONCLUSIONS: 
+      1) Not clear why Janvi could not match 
+------------------------------------------------------------------------
+
+Lal 39176 ................................ Thaw 1499
+SIMBAD:              20 20 42.0176132662 +05 10 54.870847292
+TSC20200815:               Lal_39176 5.4 
+                     20 20 42            +05 10 54 1950 Thaw 1499
+    NOTES:
+      1) Janvi could not match
+      2) Coordinates: SIMBAD, TSC & Precessed Yale in good agreement 
+    CONCLUSIONS: 
+      1) Not clear why Janvi could not match 
+------------------------------------------------------------------------
+
+20 Cnc ................................... Thaw 1524
+SIMBAD:              08 20 30.1757575773 +18 29 38.462950847
+TSC20200815:               20_Cancri 5.9 
+                     08 20 30            +18 29 39 1950 Thaw 1524
+    NOTES:
+      1) Janvi could not match
+      2) Coordinates: SIMBAD, TSC & Precessed Yale in good agreement 
+    CONCLUSIONS: 
+      1) Not clear why Janvi could not match 
+------------------------------------------------------------------------
+
+
+Lal 7820 ............................... Thaw 1565
+SIMBAD:               04 12 48.3634789698 +53 29 18.509840597
+TSC20200815:                Lal_7820 5.1 
+                      04 12 48            +53 29 18 1950 Thaw 1565
+    NOTES:
+      1) Janvi could not match
+      2) SIMBAD 1950 coordinates:  SIMBAD = Yale = TSC DEC
+    CONCLUSIONS:  
+      1) Not clear whu Janvi could not match
+------------------------------------------------------------------------
+
+39 Gem ................................ Thaw 1567
+SIMBAD:               06 55 42.5402830873 +26 08 54.929648487
+TSC20200815:                39_Gem 6.1 
+                      06 55 42            +26 08 54 1950 Thaw 1567
+    NOTES:
+     1) Janvi could not match
+     2) Coordinates:  SIMBAD= TSC but Precessed Yale Dec= 6 08 50.2484
+        AH! +26 came out 6 in Yale precessed
+    CONCLUSIONS:  
+     1) Problem 2) above probably is in Janvi's coding.  Find & fix it.
+------------------------------------------------------------------------
+
+
+Pi 153 .................................. Thaw 1593
+SIMBAD:                 21 25 59.8996614673 +32 00 20.046545406
+TSC20200815:                  Pi_21h153 5.7 
+                        21 26 00            +32 00 20 1950 Thaw 1593
+    NOTES:
+     1) Janvi could not match
+     2) 1950 Coordinates:  SIMBAD=TSC=Yale Precessed
+    CONCLUSIONS:
+     1) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
+CONCLUSIONS:
+     1) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
+Lal 31174 ................................. Thaw 1666
+SIMBAD:                  17 05 52.8810331848 +04 29 27.482810156
+TSC20200815:                   Lal_31174 7.2 
+                         17 05 53            +04 29 27 1950 Thaw 1666
+    NOTES:
+     1) Janvi could not match
+     2) 1950 Coordinates:  SIMBAD=TSC=Yale Precessed
+    CONCLUSIONS:
+     1) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
+
+Mu Cyg ....................................... Thaw 1719
+SIMBAD:                  21 41 54.3505302749 +28 30 57.014760596
+TSC20200815:                   mu_Cygni 4.4 
+                         21 41 54            +28 30 57 1950 Thaw 1719
+    NOTES:
+     1) Janvi could not match
+     2) 1950 coordinates:  SIMBAD= TSC = Precessed Yale
+    CONCLUSIONS:
+     1) Not clear why Janvi could not match
+------------------------------------------------------------------------
+
